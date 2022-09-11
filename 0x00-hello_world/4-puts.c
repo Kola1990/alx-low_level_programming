@@ -5,11 +5,11 @@
  *
  * Description: using the main function
  * this program prints "programming is like building a multilingual puzzle
- * Return 0
+ * Return(0)
  */
 int main()
 {
 	puts("\"programming is like building a multi lingual puzzle");
-	returns (0);
+	return (0);
 }	
 
